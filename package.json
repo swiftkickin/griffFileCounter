@@ -1,0 +1,11 @@
+{
+  "name": "grifffilecounter",
+  "version": "1.0.0",
+  "description": "A sample file counter for demos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Griffin",
+  "license": "ISC"
+}
