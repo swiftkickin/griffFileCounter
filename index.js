@@ -1,11 +1,11 @@
 var fileCounter = (function (){
     return {
         count: () => {
-            console.log("How the heck should I know?");
+            console.log("Test!");
         }
     }
 })();
 
-export default fileCounter;
+module.exports = fileCounter;
 
 
